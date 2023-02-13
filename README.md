@@ -2,7 +2,13 @@
 
 - I'm a huge fan of λ:hook: functional programming and :gem: TS
 
-- Currently working on microfrontend with :atom: React and :rosette: Tanstack
+- Currently working on microfrontend with :atom: Next with SSR and :rosette: Tanstack
+
+- Other than JS and TS, I still code in Scala and Go
+
+- Software Engineer working on state management ⏭️ 
+
+- Building DeFi Oracle 🔗 with Chainlink
 
 ## ...
 
