@@ -1,10 +1,10 @@
 ## Salut et bienvenue sur ma maison !
 
-- I'm a huge fan of λ:hook: functional programming and :gem: TS
+- I'm a huge fan of λ:hook: functional programming and :gem: TypeScript
 
 - Currently working on microfrontend with :atom: Next with SSR and :rosette: Tanstack
 
-- I'm polyglat, which means I'm language agnostic and really focus on sfotware building
+- I'm polyglot, which means I'm language agnostic and really focus on building software that matters
 
 - Software Engineer working on state management ⏭️ 
 
