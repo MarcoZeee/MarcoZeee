@@ -4,7 +4,7 @@
 
 - Currently working on microfrontend with :atom: Next with SSR and :rosette: Tanstack
 
-- Other than JS and TS, I still code in Scala and Go
+- I'm polyglat, which means I'm language agnostic and really focus on sfotware building
 
 - Software Engineer working on state management ⏭️ 
 
